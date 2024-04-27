@@ -2,10 +2,10 @@ site_name: RenderPi - GameCreator2 Tools
 theme:
   name: material
   features:
-    - navigation.tabs
+#    - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - navigation.top
+#    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -33,11 +33,15 @@ theme:
   extra:
     social:
       - icon: fontawesome/brands/github-alt
-        link: https://github.com/james-willett
-      - icon: fontawesome/brands/twitter
-        link: https://twitter.com/TheJamesWillett
-      - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/in/willettjames/
+        link: https://github.com/james-willett      
+nav:
+  - Home: 'index.md'
+  - 'GC2 Sub Systems':
+    - 'Flag List': 'flag-list-system.md'
+  #   - 'First Person Interaction': 'first-person-interaction.md'
+  # - About:
+  #   - 'License': 'license.md'
+  #   - 'Release Notes': 'release-notes.md'
 
 markdown_extensions:
   - pymdownx.highlight:
