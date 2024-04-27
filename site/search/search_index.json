@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Game Creator 2 Tools","text":"<p>FlagList System.</p>"},{"location":"flaglist/","title":"Flag List","text":"<p>Docs</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"All Tools","text":"<p>Flag List System.</p>"},{"location":"flag_list_system/","title":"Flag List","text":"<p>Docs</p>"}]}

@@ -1,4 +1,4 @@
-# Game Creator 2 Tools
+# All Tools
 
-[FlagList System](/flaglist).
+[Flag List System](/flag_list_system).
 
