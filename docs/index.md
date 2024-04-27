@@ -1,4 +1,4 @@
-# Burger Order Manager
+# Game Creator 2 Tools
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[FlagList System](/flaglist).
 
